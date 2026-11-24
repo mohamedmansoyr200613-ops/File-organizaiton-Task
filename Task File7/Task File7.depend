@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1795557501 source:c:\users\dell\onedrive\desktop\task file\task file7\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<vector>
+
